@@ -1,0 +1,24 @@
+user sentence：来个电影看看
+Vector represention: 来个,NFart,1	电影,n,1	看看,v,1	
+####################################
+Intention ID : SC02####1,The degree of description is 0.000000
+Intention ID : SC02####2,The degree of description is 0.020597
+Intention ID : SC02####3,The degree of description is 0.000000
+Intention ID : SC02####4,The degree of description is 0.021683
+Intention ID : SC02####5,The degree of description is 0.030344
+Intention ID : SC02####6,The degree of description is 0.021769
+Intention ID : SC02####7,The degree of description is 0.000000
+Intention ID : SC01####1,The degree of description is 0.000000
+Intention ID : SC01####2,The degree of description is 0.000000
+Intention ID : SC01####3,The degree of description is 0.000000
+Intention ID : SC01####4,The degree of description is 0.000000
+Intention ID : SC01####5,The degree of description is 0.000000
+Intention ID : SC01####6,The degree of description is 0.000000
+Intention ID : SC01####7,The degree of description is 0.000000
+Intention ID : SC01####8,The degree of description is 0.000000
+Intention ID : SC01####9,The degree of description is 0.000000
+Intention ID : SC01####10,The degree of description is 0.000000
+Intention ID : SC01####11,The degree of description is 0.000000
+Intention ID : SC01####12,The degree of description is 0.000000
+Intention ID : SC01####13,The degree of description is 0.000000
+Intention ID : SC01####14,The degree of description is 0.000000
