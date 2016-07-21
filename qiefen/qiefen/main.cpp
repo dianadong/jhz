@@ -14,13 +14,13 @@
 
 int main()
 {
-	const char * singlepath = "H:\\data_file\\singlegbk.txt";//×Öµä£º×Ö/×ÖÆµ
-	const char * wordpath1 = "H:\\data_file\\wordgbknew.txt";//´Êµä1£º´Ê×é/´ÊÆµ
-	const char * wordpath2 = "H:\\data_file\\newadd.txt";//´Êµä2£º´Ê×é/´ÊÆµ
+	const char * singlepath = "H:\\GitDemo\\data_file\\singlegbk.txt";//×Öµä£º×Ö/×ÖÆµ
+	const char * wordpath1 = "H:\\GitDemo\\data_file\\wordgbknew.txt";//´Êµä1£º´Ê×é/´ÊÆµ
+	const char * wordpath2 = "H:\\GitDemo\\data_file\\newadd.txt";//´Êµä2£º´Ê×é/´ÊÆµ
 	
 	//const char * sijhpath = "H:\\intent_und\\qiefen\\data_file\\dySentence13.txt";//ÇÐ·Ö¶ÔÏó£ºÒâÍ¼Óï¾ä£¨´¿¾ä×Ó£©
-	char intentpath[MAX_PATH] = "H:\\data_file\\US";
-	const char * qiefenpath = "H:\\qiefen\\qiefenres.txt";//ÇÐ·Ö½á¹û
+	char intentpath[MAX_PATH] = "H:\\GitDemo\\data_file\\US";
+	const char * qiefenpath = "H:\\GitDemo\\qiefen\\qiefenres.txt";//ÇÐ·Ö½á¹û
 
 	FILE *fp,*fw;
 	char * pbuf, *pseg, *q, *p, *sijhpath;

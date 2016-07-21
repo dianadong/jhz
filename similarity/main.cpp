@@ -14,23 +14,23 @@ char **stop;           //停用词表的指针
 
 int main()
 {
-	const char * singlepath = "H:\\data_file\\singlegbk.txt";    //字词典加载：词组/词频
-	const char * wordpath1 = "H:\\data_file\\wordgbknew.txt";
-	const char * wordpath2 = "H:\\data_file\\newadd.txt";      
+	const char * singlepath = "H:\\GitDemo\\data_file\\singlegbk.txt";    //字词典加载：词组/词频
+	const char * wordpath1 = "H:\\GitDemo\\data_file\\wordgbknew.txt";
+	const char * wordpath2 = "H:\\GitDemo\\data_file\\newadd.txt";      
 
-	const char * senctpath = "H:\\data_file\\CSentence.txt";      //音乐场景数据库
-	const char * songpath = "H:\\data_file\\CSnamcode.txt";
-    const char * namepath = "H:\\data_file\\CStancode.txt";
+	const char * senctpath = "H:\\GitDemo\\data_file\\CSentence.txt";      //音乐场景数据库
+	const char * songpath = "H:\\GitDemo\\data_file\\CSnamcode.txt";
+    const char * namepath = "H:\\GitDemo\\data_file\\CStancode.txt";
 
-	const char * wparpath = "H:\\data_file\\wordpart.txt";      //词性标注集合
+	const char * wparpath = "H:\\GitDemo\\data_file\\wordpart.txt";      //词性标注集合
 
-	char intentpath[MAX_PATH] = "H:\\data_file\\IS";           //导入各场景语料
+	char intentpath[MAX_PATH] = "H:\\GitDemo\\data_file\\IS";           //导入各场景语料
 
-	char *STOP = "H:\\data_file\\newstopword.txt";                      //停用词表
-	char *INTENTSET = "H:\\similarity\\intentset(1,50,1000).txt";         //意图词集合
+	char *STOP = "H:\\GitDemo\\data_file\\newstopword.txt";                      //停用词表
+	char *INTENTSET = "H:\\GitDemo\\similarity\\intentset(1,50,1000).txt";         //意图词集合
 
-	char *resultpath = "H:\\similarity\\result.txt";     //存储相似度计算结果
-	const char *reskpath = "H:\\similarity\\intentset.txt";    //写入意图集合，格式：SC01####1	音乐,n,11，10.0
+	char *resultpath = "H:\\GitDemo\\similarity\\result.txt";     //存储相似度计算结果
+	const char *reskpath = "H:\\GitDemo\\similarity\\intentset.txt";    //写入意图集合，格式：SC01####1	音乐,n,11，10.0
     
 	FILE *FI,*fw, *fr;    
 	 

@@ -14,8 +14,8 @@
 //#define INTENTSET "1111.txt"
 int main()
 {
-	char *INTENTSET = "H:\\intwords\\intentset.txt";
-	char *filepath = "H:\\IWprocess\\wordset.txt";  
+	char *INTENTSET = "H:\\GitDemo\\intwords\\intentset.txt";
+	char *filepath = "H:\\GitDemo\\IWprocess\\wordset.txt";  
 
 	//加权之后的意图集合
 	FILE *FI = fopen(INTENTSET, "r");
